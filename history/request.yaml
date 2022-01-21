@@ -1,5 +1,5 @@
 data_ready: false
 data_stream: CE07SHSM-RID26-01-ADCPTA000-recovered_host-adcp_config
-last_request: '2022-01-01T03:23:14.545915Z'
+last_request: '2022-01-21T18:53:29.556464Z'
 response: https://raw.githubusercontent.com/ooi-data/CE07SHSM-RID26-01-ADCPTA000-recovered_host-adcp_config/main/history/response.json
 status: discontinued
